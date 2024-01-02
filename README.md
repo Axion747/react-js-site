@@ -1,0 +1,1 @@
+This is a mock reactive webpage that follows the tutorial linked below. It explore Tailwind CSS and React.JS so that I can use it to develop more advanced and customizable websites in the future that do not use WordPress API.
